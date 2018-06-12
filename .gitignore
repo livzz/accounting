@@ -8,3 +8,7 @@ npm-debug.log
 npm-debug.log.*
 thumbs.db
 !.gitkeep
+semantic/src/*
+semantic/tasks/*
+semantic/gulpfile.js
+.idea/*
